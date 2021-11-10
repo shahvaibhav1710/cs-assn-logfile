@@ -1,4 +1,4 @@
-Pre-requisites:
+Steps to run the app:
 
 1. Import this project into your Eclipse or STS.
 2. Put the file logfile.txt in your local system which will have server log information and will be parsed. logfile.txt will have array of json objects. Sample file is included here.
