@@ -1,0 +1,6 @@
+com\suisse\credit\dao\SaveRecords.class
+com\suisse\credit\services\ParsingService.class
+com\suisse\credit\Driver\App.class
+com\suisse\credit\models\EventRecord.class
+com\suisse\credit\models\Record.class
+com\suisse\credit\dao\Test.class
